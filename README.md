@@ -6,7 +6,7 @@
 - 👨🏻‍💻 Learnt to program in 15+ languages
 - ✍ Interested in Mathematics and Computer Science
 - 📫 How to reach me: harishtpj@gmail.com
-- 📝 Click [here](https://github.com/harishtpj/harishtpj/Harishresume.pdf)👈🏻 for my official resume.
+- 📝 Click [here](https://github.com/harishtpj/harishtpj/blob/master/Harishresume.pdf)👈🏻 for my official resume.
 
 ### 💻 Programming languages
 
