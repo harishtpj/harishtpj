@@ -8,6 +8,10 @@
 - 📫 How to reach me: harishtpj@gmail.com
 - 📝 Click [here](https://github.com/harishtpj/harishtpj/blob/master/Harishresume.pdf)👈🏻 for my official resume.
 
+### Important Links
+- My GitLab Repository: https://gitlab.com/harishtpj
+- My Blog: https://harishtpj.github.io/
+
 ### 💻 Programming languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -29,6 +33,7 @@
 ![Smalltalk](https://img.shields.io/badge/SmallTalk-60B932?style=for-the-badge&logo=harbor&logoColor=white)
 ![LISP](https://img.shields.io/badge/LISP-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
 ![Ada](https://img.shields.io/badge/Ada-E10098?style=for-the-badge&logo=adafruit&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ### 💾 Databases
 
