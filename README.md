@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm [M.V.Harish Kumar](https://github.com/harishtpj)
 
 - 📚 I'm a Programmer / Learner
-- 🎓 Currently studying in grade 10(CBSE)
+- 🎓 Currently studying in grade 11(CBSE)
 - ⏳ Programming since 2017
 - 👨🏻‍💻 Learnt to program in 15+ languages
 - ✍ Interested in Mathematics and Computer Science
@@ -20,6 +20,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Assembly language](https://img.shields.io/badge/assembly%20language-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
@@ -33,7 +34,11 @@
 ![Smalltalk](https://img.shields.io/badge/SmallTalk-60B932?style=for-the-badge&logo=harbor&logoColor=white)
 ![LISP](https://img.shields.io/badge/LISP-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
 ![Ada](https://img.shields.io/badge/Ada-E10098?style=for-the-badge&logo=adafruit&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
 ### 💾 Databases
 
