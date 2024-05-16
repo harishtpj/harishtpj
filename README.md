@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm [M.V.Harish Kumar](https://github.com/harishtpj)
 
 - 📚 I'm a Programmer / Learner
-- 🎓 Currently studying in grade 11(CBSE)
+- 🎓 Currently studying in grade 12(CBSE)
 - ⏳ Programming since 2017
 - 👨🏻‍💻 Learnt to program in 15+ languages
 - ✍ Interested in Mathematics and Computer Science
@@ -42,6 +42,7 @@
 ![V](https://img.shields.io/badge/V-purple?style=for-the-badge&logo=v&logoColor=white)
 ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 
 ### 💾 Databases
 
