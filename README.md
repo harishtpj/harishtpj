@@ -1,12 +1,12 @@
 ## Hi there 👋, I'm [M.V.Harish Kumar](https://github.com/harishtpj)
 
 - 📚 I'm a Programmer / Learner
-- 🎓 Currently studying in grade 12(CBSE)
+- 🎓 Currently Pursuing B.Tech Computer Science and Engineering (First Year)
 - ⏳ Programming since 2017
-- 👨🏻‍💻 Learnt to program in 15+ languages
+- 👨🏻‍💻 Learnt to program in 20+ languages
 - ✍ Interested in Mathematics and Computer Science
 - 📫 How to reach me: harishtpj@gmail.com
-- 📝 Click [here](https://github.com/harishtpj/harishtpj/blob/master/Harishresume.pdf)👈🏻 for my official resume.
+- 📝 Click [here](https://harishtpj.github.io/about)👈🏻 for my official resume.
 
 ### Important Links
 - My GitLab Repository: https://gitlab.com/harishtpj
@@ -17,7 +17,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -43,6 +43,7 @@
 ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
 ### 💾 Databases
 
