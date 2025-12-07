@@ -1,11 +1,11 @@
-## Hi there 👋, I'm [M.V.Harish Kumar](https://github.com/harishtpj)
+## Hi there 👋, I'm [M.V.Harish Kumar](https://harishtpj.netlify.app)
 
 - 💻 **Full Stack Developer | Systems Programmer | Lifelong Learner**
 - 🎓 Pursuing **B.Tech in Computer Science and Engineering (1st Year)**
 - 🕓 **Programming since 2017** — started with C, explored 20+ languages
 - 📚 Passionate about **System Software**, **Web Development**, and **Mathematics**
 - 📫 **Reach me at:** [harishtpj@gmail.com](mailto:harishtpj@gmail.com)
-- 📝 **Official Resume:** [harishtpj.github.io/about](https://harishtpj.github.io/about)
+- 📝 **Official Resume:**  Click [here](https://github.com/harishtpj/harishtpj/blob/master/HK_Resume.pdf)
 
 ### Important Links
 
